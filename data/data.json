@@ -1,0 +1,119 @@
+[
+    {
+        "_id": {
+            "$oid": "641750c6532f9b8635e9404a"
+        },
+        "name": "Eric",
+        "raiting": 2233,
+        "comments": [
+            "test",
+            "test2",
+            "test3"
+        ],
+        "team": "black",
+        "stats": {
+            "wins": 35,
+            "loses": 10
+        }
+    },
+    {
+        "_id": {
+            "$oid": "641750c6532f9b8635e9404b"
+        },
+        "name": "TEEEEEST",
+        "raiting": 4231,
+        "comments": [
+            "testfadsf",
+            "tefasdfst2",
+            "tfasdfest3"
+        ],
+        "team": "green",
+        "stats": {
+            "wins": 74,
+            "loses": 20
+        }
+    },
+    {
+        "_id": {
+            "$oid": "641750c6532f9b8635e9404c"
+        },
+        "name": "John",
+        "raiting": 1320,
+        "comments": [
+            "tes231t",
+            "tfasdest2"
+        ],
+        "team": "green",
+        "stats": {
+            "wins": 13,
+            "loses": 20
+        }
+    },
+    {
+        "_id": {
+            "$oid": "641750c6532f9b8635e9404d"
+        },
+        "name": "Kevin",
+        "raiting": 6012,
+        "comments": [
+            "t00",
+            "t0012",
+            "t00091"
+        ],
+        "team": "green",
+        "stats": {
+            "wins": 82,
+            "loses": 2
+        }
+    },
+    {
+        "_id": {
+            "$oid": "641cccb9459bf7ecd5ded2ed"
+        },
+        "name": "fasdfa",
+        "raiting": 2319,
+        "comments": [
+            "test",
+            "test2",
+            "test3"
+        ],
+        "team": "green",
+        "stats": {
+            "wins": 31,
+            "loses": 13
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "641cce17b070ccfb82ef4304"
+        },
+        "name": "tessssst",
+        "raiting": 2319,
+        "comments": [
+            "test",
+            "test2",
+            "test3"
+        ],
+        "team": "green",
+        "stats": {
+            "wins": 31,
+            "loses": 13
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "642027d370bc98ae2fc4cac2"
+        },
+        "name": "ivan",
+        "raiting": 1000,
+        "comments": [],
+        "team": "black",
+        "stats": {
+            "wins": 0,
+            "loses": 0
+        },
+        "__v": 0
+    }
+]

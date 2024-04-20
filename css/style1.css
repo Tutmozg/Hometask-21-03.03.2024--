@@ -1,0 +1,37 @@
+* {
+    color: #FFF;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background: rgb(36, 36, 36);
+}
+
+.first-page {
+    width: 1000px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+img {
+    height: 750px;
+    transition: 1s;
+}
+
+.img-container {
+    width: 500px;
+    margin: 0 auto;
+    height: 750px;
+    display: flex;
+    justify-content: center;
+    box-shadow: rgba(255, 255, 255, 0.35) 0px 15px 50px;
+    transition: 1s;
+}
+
+.img-container:hover {
+    transform: scale(1.1);
+}
